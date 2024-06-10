@@ -16,7 +16,7 @@
 
 const typed = new Typed(".text", {
   strings: [
-    "Software Developer", 
+    "Odoo Developer", 
     "Web Developer"
   ],
   typeSpeed: 100,
